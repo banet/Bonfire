@@ -1,6 +1,6 @@
 # Bonfire
 
-Frontend project
+## Frontend project
 
 Example of product page for an e-commerce website. 
 
