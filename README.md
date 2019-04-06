@@ -38,5 +38,5 @@ Example of product page for an e-commerce website.
 
 •	A newsletter signup element
 
-
+![Bonfire](https://user-images.githubusercontent.com/18226888/55668896-7e4bf780-5870-11e9-87cc-913fdc189a14.png)
 
