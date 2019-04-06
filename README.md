@@ -4,7 +4,7 @@
 
 Example of product page for an e-commerce website. 
 
-•	A header containing:
+#####	A header containing:
 
 •	Company logo
 
@@ -17,7 +17,7 @@ Example of product page for an e-commerce website.
 
 
 
-•	Page content containing:
+#####	Page content containing:
 
 •	Product image(s)
 
@@ -30,7 +30,7 @@ Example of product page for an e-commerce website.
 
 
 
-•	Footer containing:
+#####	Footer containing:
 
 •	Links to typical CMS pages
 
