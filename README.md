@@ -10,7 +10,7 @@ Example of product page for an e-commerce website.
 
 *	Search field
 
-*	Some kind of shopping cart status / indicator
+*	Shopping cart status / indicator
 
 *	Category navigation
 
